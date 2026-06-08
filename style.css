@@ -3,6 +3,21 @@
     padding: 0;
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
+    color: black;
+   
+}
+
+a:link {
+  text-decoration: none;
+  
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  color: hotpink;
 }
 
 h1{
@@ -25,4 +40,14 @@ footer{
     padding: 8px;
     margin-top: auto;
     color: rgb(46, 46, 46);
+}
+
+
+
+
+.home {
+    color: oldlace;
+    display: block;
+    padding: 8px;
+    background-color: rgb(46, 46, 46);
 }
