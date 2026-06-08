@@ -1,6 +1,34 @@
-/* * {
+* {
 
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-} */
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h1{
+    background-color: olive;
+    color: oldlace;
+    padding: 32px 16px;
+    font-size: 80px;
+}
+
+
+ul{
+
+    margin: 32px;
+    
+}
+
+li {
+    margin-bottom:8px ;
+}
+
+footer{
+    background-color: oldlace;
+    padding: 8px;
+    margin-top: auto;
+    color: rgb(46, 46, 46);
+}
