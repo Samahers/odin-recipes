@@ -7,6 +7,11 @@
    
 }
 
+a{
+    color: rgb(115, 115, 115);
+
+}
+
 a:link {
   text-decoration: none;
   
@@ -27,12 +32,12 @@ h1{
     font-size: 80px;
 }
 
-ul{
+ul , ol{
     margin: 32px; 
 }
 
 li {
-    margin-bottom:8px ;
+    margin-bottom:10px ;
 }
 
 footer{
@@ -42,12 +47,47 @@ footer{
     color: rgb(46, 46, 46);
 }
 
-
-
-
 .home {
     color: oldlace;
     display: block;
     padding: 8px;
     background-color: rgb(46, 46, 46);
+}
+
+h2{
+    margin: 42px auto;
+    text-align: center;
+    width: 600px;
+    /* color: olive; */
+}
+
+img{
+    display: block;
+    margin: 0 auto 80px;
+    width: 500px;
+}
+
+h3{
+    width: 600px;
+    text-align: center;
+    margin: 32px auto;
+    color: olive;
+
+}
+
+.description {
+    width: 900px;
+    margin: 0 auto 80px;
+    text-align: center;
+}
+
+.ingredients {
+    width: 900px;
+    margin: 0 auto 80px;
+}
+
+.steps{
+
+    width: 900px;
+    margin: 0 auto 80px;
 }
